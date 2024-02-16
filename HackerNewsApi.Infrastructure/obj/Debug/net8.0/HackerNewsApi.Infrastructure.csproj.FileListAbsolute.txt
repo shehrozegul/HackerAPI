@@ -1,0 +1,15 @@
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\bin\Debug\net8.0\HackerNewsApi.Infrastructure.deps.json
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\bin\Debug\net8.0\HackerNewsApi.Infrastructure.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\bin\Debug\net8.0\HackerNewsApi.Infrastructure.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\bin\Debug\net8.0\HackerNewsApi.Domain.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\bin\Debug\net8.0\HackerNewsApi.Domain.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\HackerNewsApi.Infrastructure.csproj.AssemblyReference.cache
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\HackerNewsApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\HackerNewsApi.Infrastructure.AssemblyInfoInputs.cache
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\HackerNewsApi.Infrastructure.AssemblyInfo.cs
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\HackerNewsApi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\HackerNewsApi.Infrastructure.csproj.CopyComplete
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\HackerNewsApi.Infrastructure.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\refint\HackerNewsApi.Infrastructure.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\HackerNewsApi.Infrastructure.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Infrastructure\obj\Debug\net8.0\ref\HackerNewsApi.Infrastructure.dll

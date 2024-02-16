@@ -1,0 +1,17 @@
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\bin\Debug\net8.0\HackerNewsApi.Application.deps.json
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\bin\Debug\net8.0\HackerNewsApi.Application.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\bin\Debug\net8.0\HackerNewsApi.Application.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\bin\Debug\net8.0\HackerNewsApi.Domain.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\bin\Debug\net8.0\HackerNewsApi.Infrastructure.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\bin\Debug\net8.0\HackerNewsApi.Domain.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\bin\Debug\net8.0\HackerNewsApi.Infrastructure.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\HackerNewsApi.Application.csproj.AssemblyReference.cache
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\HackerNewsApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\HackerNewsApi.Application.AssemblyInfoInputs.cache
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\HackerNewsApi.Application.AssemblyInfo.cs
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\HackerNewsApi.Application.csproj.CoreCompileInputs.cache
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\HackerNewsApi.Application.csproj.CopyComplete
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\HackerNewsApi.Application.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\refint\HackerNewsApi.Application.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\HackerNewsApi.Application.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Application\obj\Debug\net8.0\ref\HackerNewsApi.Application.dll

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  hackernewsapi:
+    image: ${DOCKER_REGISTRY-}hackernewsapi
+    build:
+      context: .
+      dockerfile: HackerNewsApi/Dockerfile

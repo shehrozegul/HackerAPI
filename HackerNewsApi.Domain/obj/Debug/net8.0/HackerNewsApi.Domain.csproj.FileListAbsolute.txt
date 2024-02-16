@@ -1,0 +1,11 @@
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\bin\Debug\net8.0\HackerNewsApi.Domain.deps.json
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\bin\Debug\net8.0\HackerNewsApi.Domain.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\bin\Debug\net8.0\HackerNewsApi.Domain.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\obj\Debug\net8.0\HackerNewsApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\obj\Debug\net8.0\HackerNewsApi.Domain.AssemblyInfoInputs.cache
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\obj\Debug\net8.0\HackerNewsApi.Domain.AssemblyInfo.cs
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\obj\Debug\net8.0\HackerNewsApi.Domain.csproj.CoreCompileInputs.cache
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\obj\Debug\net8.0\HackerNewsApi.Domain.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\obj\Debug\net8.0\refint\HackerNewsApi.Domain.dll
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\obj\Debug\net8.0\HackerNewsApi.Domain.pdb
+D:\InterviewAssesment\BambooCard\HackerNewsApi\HackerNewsApi.Domain\obj\Debug\net8.0\ref\HackerNewsApi.Domain.dll
